@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dulyana Silva!
 
-🎓 **3rd year undergrade| Faculty of Science, University of Colombo**  
+🎓 **Undergrade| Faculty of Science, University of Colombo**  
 🔬 Data Science | Full Stack Development |
 
 ---
@@ -28,7 +28,7 @@
 - 🎶 Singing, violin, and guitar are my creative outlets.
 - 📸 Passionate about photography—capturing moments as they happen.
 - 🏸 Sports & extracurriculars keep life balanced and exciting.
-- 🤝 Teamwork, time management, and leadership are at the heart of my journey.
+- 🤝 Teamwork, leadership, and staying organized have guided my journey.
 
 ---
 
@@ -36,6 +36,7 @@
 
 - [GitHub](https://github.com/Dulyana-Silva)
 - [LinkedIn](www.linkedin.com/in/duneesha-dulyana-silva-b8b78728b)
+- [Instagram](https://www.instagram.com/duneesha_d_s/)
 
 ---
 
