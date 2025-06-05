@@ -40,4 +40,4 @@
 
 ---
 
-> Thanks for stopping by! Let’s connect and build something amazing together.
+> Thanks for stopping by! Let’s connect and collaborate on something meaningful!
