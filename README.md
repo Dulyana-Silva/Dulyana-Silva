@@ -23,15 +23,6 @@
 
 ---
 
-## 🎤 Fun Facts & Interests
-
-- 🎶 Singing, violin, and guitar are my creative outlets.
-- 📸 Passionate about photography—capturing moments as they happen.
-- 🏸 Sports & extracurriculars keep life balanced and exciting.
-- 🤝 Teamwork, leadership, and staying organized have guided my journey.
-
----
-
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/Dulyana-Silva)
