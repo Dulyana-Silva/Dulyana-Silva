@@ -8,11 +8,11 @@ im 🔥 into 🚀 problem solving, traveling, photography, singing, palying my s
 - 🌱 I'm currently learning to develop a mobile app using anroidstudio
 - 💬 Ask me about life advice 🤔 💭 , Stat and tech solution 💻 , Music , Photo Editing  , food 🍕 🍔 🍟 
 - 📫 How to reach me DM 📧 email: ddulyanasilva@gmail.com
-- 
+
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/duneesha-dulyana-silva-b8b78728b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duneesha-dulyana-silva-b8b78728b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/duneesha_d_s/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yourprofile)
