@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dulyana Silva!
 
  **Undergraduate in the Faculty of Science, University of Colombo** with a background in **Industrial Statistical and Mathematical Finance**, currently specializing in **IT and Management**.
-
+ 
 I'm 🔥 passionate about 🚀 problem solving, traveling, photography, singing, and meaningful conversations | 🌍 I love 🎯 exploring new places with different traditions and cultures.
 
 - 🔭 I'm currently working on a Data Project creating a Student Performance Dashboard
