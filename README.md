@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Dulyana Silva!
 
- **Undergraduate in the Faculty of Science, University of Colombo** with a background in **Industrial Statistical and Mathematical Finance**, currently specializing in **IT and Management**.
+**Undergraduate in the Faculty of Science, University of Colombo** with a background in **Industrial Statistical and Mathematical Finance**, currently specializing in **IT and Management**.
  
-I'm 🔥 passionate about 🚀 problem solving, traveling, photography, singing, and meaningful conversations | 🌍 I love 🎯 exploring new places with different traditions and cultures.
+I'm 🔥 passionate about 🚀 problem solving, traveling, photography, music, and meaningful conversations | 🌍 I love 🎯 exploring new things and embracing opportunities that inspire me and ignite my curiosity. 
 
 - 🔭 I'm currently working on a Data Project creating a Student Performance Dashboard
 - 🌱 I'm currently learning to develop mobile apps using Android Studio
 - 💬 Ask me about life advice 🤔 💭, statistical & tech solutions 💻, blog writing ✍️, music 🎵, photo editing 📸, and food 🍕 
 - 📫 How to reach me: DM me or email 📧 ddulyanasilva@gmail.com
+<br>
 
 ## 🌐 Connect with me:
 
