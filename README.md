@@ -4,9 +4,9 @@
  
 I'm 🔥 passionate about 🚀 problem solving, traveling, photography, music, and meaningful conversations | 🌍 I love 🎯 exploring new things and embracing opportunities that inspire me and ignite my curiosity. 
 
-- 🔭 I'm currently working on a Data Project creating a Student Performance Dashboard
-- 🌱 I'm currently learning to develop mobile apps using Android Studio
-- 💬 Ask me about life advice 🤔 💭, statistical & tech solutions 💻, blog writing ✍️, music 🎵, photo editing 📸, and food 🍕 
+- 🔭 I'm currently working on python end-to-end model training projects and Data Projects like creating Dashboards and visualizations.
+- 🌱 I'm currently learning to develop mobile apps using Android Studio.
+- 💬 Ask me about🤔 💭, statistical & tech solutions 💻, blog writing ✍️, music 🎵, photo editing 📸, and food 🍕 
 - 📫 How to reach me: DM me or email 📧 ddulyanasilva@gmail.com
 <br>
 
